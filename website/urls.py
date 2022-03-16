@@ -21,5 +21,5 @@ from login.views import loginaction
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('signup/',signaction),
-    path('login/',loginaction),
+    path('',loginaction),
 ]

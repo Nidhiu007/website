@@ -1,5 +1,5 @@
 from django.shortcuts import render
-import mysql.connector as sql
+#?import mysql.connector as sql
 fn=''
 ln=''
 s=''
